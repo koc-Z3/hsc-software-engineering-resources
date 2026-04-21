@@ -24,7 +24,7 @@ Machine Learning (ML) enables computers to **learn from data** and improve their
 | **Aspect** | **Artificial Intelligence (AI)** | **Machine Learning (ML)** |
 |------------|----------------------------------|---------------------------|
 | Definition | The broader concept of **machines simulating human intelligence**. | A subset of AI that **learns from data** without explicit programming. |
-| Scope | Encompasses **ML, expert systems, robotics, NLP**. | Focuses on **pattern recognition and prediction**. |
+| Scope | Encompasses **ML, expert systems, robotics, NLP (Natural Language Processing)**. | Focuses on **pattern recognition and prediction**. |
 | Example | AI-powered **chess bots, self-driving cars**. | ML-powered **recommendation systems, fraud detection**. |
 
 *Example:* AI includes a **self-driving car’s decision-making system**, while ML is used in the car’s **object recognition and lane detection**.
