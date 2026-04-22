@@ -8,7 +8,7 @@ Machine Learning (ML) enables computers to **learn from data** and improve their
 - **Automated Code Review:** Identifies **bugs, security vulnerabilities, and inefficiencies**.
 - **CI/CD Optimization:** Automates **testing and deployment processes (Continuous Integration (CI) and Continuous Deployment (CD))**.
 
-### ML in Robotic Process Automation (RPA)
+### ML in Robotic Process Automation (RPA) 
 - Enhances **rule-based automation** by allowing bots to learn from data.
 - Used in **document processing, chatbots, and customer service**.
 - *Example:* An RPA bot automatically extracts and processes invoices.
