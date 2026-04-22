@@ -6,7 +6,7 @@ Machine Learning (ML) enables computers to **learn from data** and improve their
 ### ML in DevOps
 - **Predictive Analytics:** ML helps predict **system failures** and optimize **server performance**.
 - **Automated Code Review:** Identifies **bugs, security vulnerabilities, and inefficiencies**.
-- **CI/CD Optimization:** Automates **testing and deployment processes <Continuous Integration (CI) and Continuous Deployment (CD)>**.
+- **CI/CD Optimization:** Automates **testing and deployment processes (Continuous Integration (CI) and Continuous Deployment (CD))**.
 
 ### ML in Robotic Process Automation (RPA)
 - Enhances **rule-based automation** by allowing bots to learn from data.
