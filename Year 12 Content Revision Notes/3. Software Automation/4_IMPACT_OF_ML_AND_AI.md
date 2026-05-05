@@ -60,7 +60,13 @@ AI systems are only as good as the **data they are trained on**. Bias in dataset
 
 ### **Types of Bias in AI and ML**
 - **Selection Bias:** The training data does not represent the entire population.
+• This is a statistical error during the sampling phase. It occurs when the criteria used to select data for a training set exclude certain groups.
+
 - **Confirmation Bias:** AI reinforces existing human biases in decision-making.
+This often appears during the application or feedback loop of an AI. It involves the tendency to favor information that confirms what is already "known" or expected.
+• Key characteristic: It creates a "filter bubble" or reinforcement loop.
+• Example: A recommendation engine that only shows a user political news they already agree with, effectively ignoring contrary evidence to satisfy the user's existing viewpoint.
+
 - **Historical Bias:** Data reflects past inequalities (e.g., hiring discrimination in job applications).
 
 ### **Real-World Examples of AI Bias**
