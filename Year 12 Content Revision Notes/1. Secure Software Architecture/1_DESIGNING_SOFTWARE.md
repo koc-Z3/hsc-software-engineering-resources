@@ -13,6 +13,7 @@ Developing secure software is essential to protect users, data, and systems from
   - **SQL Injection** – Malicious SQL queries that manipulate databases.
   - **Cross-Site Scripting (XSS)** – Injecting harmful scripts into web pages.
   - **Denial-of-Service (DoS) Attacks** – Overloading a system to make it unusable.
+  - **Distributed Denial-of-service (DDoS)** - Overloading a system accross distributed devices.
 - Helps maintain **user trust** and **regulatory compliance** (e.g., GDPR, Australian Privacy Act).
 
 ---
